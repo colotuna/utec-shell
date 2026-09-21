@@ -1,1 +1,1 @@
-Este repo es para scripts que voy creando mientras aprendo sobre shell
+Este es un repo para guardar scripts que resuelven permisos para archivos, usuarios y directorios, etc
